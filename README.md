@@ -1,16 +1,13 @@
-### Hi there 👋
+#### Hello World! 
+# I'm Suraj Verma  👋, 
+- 👯 I am full stack developer currenty. I live in Vadadora, India.
+- 🙌 I'm a huge nerd/geek, pubg player, and aspiring aerialist. 
+ - 🙎🏾‍♂️ I'm a Full Stack Web Developer and App Developer.
+ - 🔭 I’m looking to collaborate on Backend Development or React native project.
+ - 🎸 I like playing football and listening to music
 
-<!--
-**gadgetvala/gadgetvala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My values
+- 💖 Safety and trust<br>
+- 🙌 Shared norms<br>
+- 🍏 Beginner's mindset and curiosity<br>
+- 🚀 Elevate the underrepresented### Hi there 👋
