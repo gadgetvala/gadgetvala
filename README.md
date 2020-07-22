@@ -1,4 +1,4 @@
-#### Hello World! 👋
+#### Hello World! 👋 
 # I'm Suraj Verma, 
 - 👯 I am full stack developer currenty. I live in Vadadora, India.
 - 🙌 I'm a huge nerd/geek, pubg player, and aspiring aerialist. 
@@ -19,3 +19,5 @@ My motivations are to stabilize and provide clarity through curiosity. 💕 That
 - Personal site: https://gadgetvala.github.io/
 - LinkedIn: https://linkedin.com/in/gadgetvala/
 - Instgram: https://www.instagram.com/gadgetvala/
+
+### <img src="https://komarev.com/ghpvc/?username=gadgetvala" alt="gadgetvala" />
