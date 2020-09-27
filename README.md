@@ -22,7 +22,8 @@ My motivations are to stabilize and provide clarity through curiosity. 💕 That
 ## Get in touch
 
 -   Personal site: https://gadgetvala.github.io/gadgetvala/
-    <a href="https://discord.gg/gadgetvala#6834">
+	<br />
+    <a href="https://discord.gg/gadgetvala">
       <img align="center" alt="gadgetvala's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
     </a>
     <a href="https://www.linkedin.com/in/gadgetvala/">
