@@ -18,20 +18,21 @@ My motivations are to stabilize and provide clarity through curiosity. 💕 That
 
 ## Get in touch
 - Personal site: https://gadgetvala.github.io/
-- LinkedIn: https://linkedin.com/in/gadgetvala/
-- Instgram: https://www.instagram.com/gadgetvala/
+gadgetvala/
+<div>
 <a href="https://discord.gg/gadgetvala#6834">
-  <img align="left" alt="gadgetvala's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+  <img align="center" alt="gadgetvala's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
 <a href="https://www.linkedin.com/in/gadgetvala/">
-  <img align="left" alt="gadgetvala's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="center" alt="gadgetvala's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://t.me/gadgetvala">
-  <img align="left" alt="gadgetvala's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="center" alt="gadgetvala's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://www.instagram.com/gadgetvala/">
-  <img align="left" alt="gadgetvala's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="center" alt="gadgetvala's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
+<br />
 
 ### <img src="https://komarev.com/ghpvc/?username=gadgetvala" alt="gadgetvala" />
