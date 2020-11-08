@@ -21,19 +21,18 @@ My motivations are to stabilize and provide clarity through curiosity. 💕 That
 
 ## Get in touch
 
-  <br />
-    <a href="https://discord.gg/gadgetvala">
-      <img align="center" alt="gadgetvala's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" style="margin: 8px"/>
-    </a>
-    <a href="https://www.linkedin.com/in/gadgetvala/">
-      <img align="center" alt="gadgetvala's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="margin: 8px"/>
-    </a>
-    <a href="https://t.me/gadgetvala">
-      <img align="center" alt="gadgetvala's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" style="margin: 8px"/>
-    </a>
-    <a href="https://www.instagram.com/gadgetvala/">
-      <img align="center" alt="gadgetvala's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="margin: 8px"/>
-    </a>
+  <a href="https://discord.gg/gadgetvala">
+      <img align="center" alt="gadgetvala's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" style="margin: 10px"/>
+  </a>
+  <a href="https://www.linkedin.com/in/gadgetvala/">
+      <img align="center" alt="gadgetvala's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="margin: 10px"/>
+  </a>
+  <a href="https://t.me/gadgetvala">
+      <img align="center" alt="gadgetvala's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" style="margin: 10px"/>
+  </a>
+  <a href="https://www.instagram.com/gadgetvala/">
+      <img align="center" alt="gadgetvala's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="margin: 10px"/>
+  </a>
   <br />
 
 ### Languages and Tools:
