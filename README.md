@@ -1,12 +1,22 @@
-#### Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+#### What if the universe is just code? <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 # I'm Suraj Verma,
 
-- 👯 I am full stack developer currenty. I live in Vadadora, India.
-- 🙌 I'm a huge nerd/geek, pubg player, and aspiring aerialist.
-- 🙎🏾‍♂️ I'm a Full Stack Web Developer and App Developer.
-- 🔭 I’m looking to collaborate on Backend Development or React native project.
-- 🎸 I like playing football and listening to music
+```javascript
+const gadgetvala = {
+
+  pronouns: "he" | "him",
+  language: ["Javascript", "Solidity", "Dart", "Python"],
+  frameworks_and_libraries : ["React.js" , "Node.js", "Next.js", "Flutter", "Flask" , "Material UI",],
+  database : ["MongoDB", "Firebase", "MySQL", "Redis"]
+  
+}
+```
+- 🐱‍🏍 A Husteler, A Dreamer, A Doer
+- 👯 I am Full Stack & App Developer. Currenty I live in Vadadora, India.
+- 🙌 I'm a huge nerd/geek, valorant player, and aspiring aerialist.
+- 🔭 I’m looking to collaborate on MERN or Flutter projects.
+- 🎸 I like playing video games and listening music.
 
 ## My values
 
@@ -17,7 +27,7 @@
 
 ## How I work
 
-My motivations are to stabilize and provide clarity through curiosity. 💕 That tends to manifest as creating (hopefully) just enough process. Checklists are my absolute favorite. ✅ If I'm too much in my head, feel free to nudge me to share what's in my brain. 😸
+My motivations are to stabilize and provide clarity through curiosity. 💕 That tends to manifest as creating (hopefully) just enough process. Checklists are my absolute favorite ✅. If I'm too much in your head, feel free to nudge me to share what's in my brain. 😸
 
 ## Get in touch
 
