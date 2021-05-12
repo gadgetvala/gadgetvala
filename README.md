@@ -87,6 +87,5 @@ My motivations are to stabilize and provide clarity through curiosity. 💕 That
 
 
 </p>
-<br />
-<br />
+
 ### <img src="https://komarev.com/ghpvc/?username=gadgetvala" alt="gadgetvala" />
