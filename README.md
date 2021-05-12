@@ -47,6 +47,7 @@ My motivations are to stabilize and provide clarity through curiosity. 💕 That
 
 ### Languages and Tools:
 
+<p>
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-505050?style=flat&logo=JavaScript&logoColor=F7DF1E" />
 <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white" />
 <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white" />
@@ -68,7 +69,7 @@ My motivations are to stabilize and provide clarity through curiosity. 💕 That
 <img alt="Storybook" src="https://img.shields.io/badge/-Storybook-FF4785?style=flat&logo=storybook&logoColor=white" />
 <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
 <img alt="Material Design" src="https://img.shields.io/badge/-Material Design-757575?style=flat&logo=material-design&logoColor=white" />
-<img alt="Material Design Icons" src="https://img.shields.io/badge/-Material Design Icons-2196F3?style=flat&logo=material-design-icons&logoColor=white" />
+<img alt="Material Design Icons" src="https://img.shields.io/badge/-Material Design Icons-2196F3?style=flat&logo=material-design-icons&logoColor=white" />.
 <img alt="socket.io" src="https://img.shields.io/badge/-Socket.io-010101?style=flat&logo=socket.io&logoColor=white" />
 <img alt="Nodemon" src="https://img.shields.io/badge/-Nodemon-76D04B?style=flat&logo=nodemon&logoColor=white" />
 <img alt="Next" src="https://img.shields.io/badge/-Next-000000?style=flat&logo=Next.js&logoColor=white" />
@@ -84,7 +85,8 @@ My motivations are to stabilize and provide clarity through curiosity. 💕 That
 <img alt="Strapi" src="https://img.shields.io/badge/-Strapi-2E7EEA?style=flat&logo=Strapi&logoColor=white" />
 <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=Redis&logoColor=white" />
 
-<br />
-<br />
 
+</p>
+<br />
+<br />
 ### <img src="https://komarev.com/ghpvc/?username=gadgetvala" alt="gadgetvala" />
