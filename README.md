@@ -47,6 +47,8 @@ My motivations are to stabilize and provide clarity through curiosity. 💕 That
 [discord]: https://discord.gg/gadgetvala
 [telegram]: https://t.me/gadgetvala
 
+</br>
+
 ### Languages and Tools:
 
 <p>
