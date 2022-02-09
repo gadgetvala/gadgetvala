@@ -113,20 +113,12 @@ My motivations are to stabilize and provide clarity through curiosity. 💕 That
 <a href="https://github.com/gadgetvala/Where_In_The_World">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gadgetvala&repo=Where_In_The_World&hide_border=true&theme=radical" />
 </a>
-<a href="https://github.com/gadgetvala/Where_in_the_World--android">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gadgetvala&repo=Where_in_the_World--android&hide_border=true&theme=radical" />
-</a>
 <a href="https://github.com/gadgetvala/gadgetvala-cli">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gadgetvala&repo=gadgetvala-cli&hide_border=true&theme=radical" />
 </a>
-<a href="https://github.com/gadgetvala/dynamic_image_rendering">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gadgetvala&repo=dynamic_image_rendering&hide_border=true&theme=radical" />
-</a>
-
 <a href="https://github.com/gadgetvala/flutter_refresher_projects">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gadgetvala&repo=flutter_refresher_projects&hide_border=true&theme=radical" />
 </a>
-
 </p>
 
 ### <img src="https://komarev.com/ghpvc/?username=gadgetvala" alt="gadgetvala" />
