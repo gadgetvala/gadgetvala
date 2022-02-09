@@ -42,12 +42,12 @@ My motivations are to stabilize and provide clarity through curiosity. 💕 That
 [<img align="left" alt="gadgetvala | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 [<img align="left" alt="gadgetvala | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
+</br>
+
 [instagram]: https://instagram.com/gadgetvala
 [linkedin]: https://linkedin.com/in/gadgetvala
 [discord]: https://discord.gg/gadgetvala
 [telegram]: https://t.me/gadgetvala
-
-</br>
 
 ### Languages and Tools:
 
@@ -89,6 +89,13 @@ My motivations are to stabilize and provide clarity through curiosity. 💕 That
 <img alt="Strapi" src="https://img.shields.io/badge/-Strapi-2E7EEA?style=flat&logo=Strapi&logoColor=white" />
 <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=Redis&logoColor=white" />
 
+</p>
+
+### 📈 Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gadgetvala&show_icons=true&hide_border=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=gadgetvala&hide_border=true&theme=radical" />
 </p>
 
 ### <img src="https://komarev.com/ghpvc/?username=gadgetvala" alt="gadgetvala" />
