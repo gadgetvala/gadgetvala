@@ -4,14 +4,20 @@
 
 ```javascript
 const gadgetvala = {
-
   pronouns: "he" | "him",
   language: ["Javascript", "Solidity", "Dart", "Python"],
-  frameworks_and_libraries : ["React.js" , "Node.js", "Next.js", "Flutter", "Flask" , "Material UI",],
-  database : ["MongoDB", "Firebase", "MySQL", "Redis"]
-  
-}
+  frameworks_and_libraries: [
+    "React.js",
+    "Node.js",
+    "Next.js",
+    "Flutter",
+    "Flask",
+    "Material UI",
+  ],
+  database: ["MongoDB", "Firebase", "MySQL", "Redis"],
+};
 ```
+
 - 🐱‍🏍 A Husteler, A Dreamer, A Doer
 - 👯 I am Full Stack & App Developer. Currenty I live in Vadadora, India.
 - 🙌 I'm a huge nerd/geek, valorant player, and aspiring aerialist.
@@ -31,19 +37,15 @@ My motivations are to stabilize and provide clarity through curiosity. 💕 That
 
 ## Get in touch
 
-  <a href="https://discord.gg/gadgetvala">
-      <img align="center" alt="gadgetvala's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" style="margin: 10px"/>
-  </a>
-  <a href="https://www.linkedin.com/in/gadgetvala/">
-      <img align="center" alt="gadgetvala's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="margin: 10px"/>
-  </a>
-  <a href="https://t.me/gadgetvala">
-      <img align="center" alt="gadgetvala's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" style="margin: 10px"/>
-  </a>
-  <a href="https://www.instagram.com/gadgetvala/">
-      <img align="center" alt="gadgetvala's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="margin: 10px"/>
-  </a>
-  <br />
+[<img align="left" alt="gadgetvala | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="gadgetvala | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="gadgetvala | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+[<img align="left" alt="gadgetvala | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+
+[instagram]: https://instagram.com/gadgetvala
+[linkedin]: https://linkedin.com/in/gadgetvala
+[discord]: https://discord.gg/gadgetvala
+[telegram]: https://t.me/gadgetvala
 
 ### Languages and Tools:
 
@@ -84,7 +86,6 @@ My motivations are to stabilize and provide clarity through curiosity. 💕 That
 <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat&logo=Markdown&logoColor=white" />
 <img alt="Strapi" src="https://img.shields.io/badge/-Strapi-2E7EEA?style=flat&logo=Strapi&logoColor=white" />
 <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=Redis&logoColor=white" />
-
 
 </p>
 
