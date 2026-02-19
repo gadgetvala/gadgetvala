@@ -31,9 +31,43 @@ const gadgetvala = {
 - 🍏 Beginner's mindset and curiosity<br>
 - 🚀 Elevate the underrepresented
 
+---
+
+## 🏗️ Things I’ve Built
+
+- 📡 Real-time monitoring dashboards with live telemetry
+- 💳 Fintech disbursement & co-lending platforms
+- 🧘 Subscription-based live session systems
+- 🔮 Realtime audio/video consultation platforms
+- 🌐 CMS-driven marketing websites using Next.js + Strapi
+- ⚙️ Background workers, cron systems & automation pipelines
+
+---
+
 ## How I work
 
 My motivations are to stabilize and provide clarity through curiosity. 💕 That tends to manifest as creating (hopefully) just enough process. Checklists are my absolute favorite ✅. If I'm too much in your head, feel free to nudge me to share what's in my brain. 😸
+
+---
+
+## 🧩 Engineering Philosophy
+
+> “Make it work. Make it right. Make it scale.”
+
+- I prefer **simple systems that scale** over clever ones that break.
+- I optimize for **debuggability, observability, and long-term maintainability**.
+- I believe **good engineering is invisible** when it’s done right.
+
+---
+
+## 📈 Current Focus
+
+- Scaling backend systems
+- Improving reliability of async & background processing
+- Better deployment & infra automation
+- Cleaner API design & service boundaries
+
+---
 
 ## Get in touch
 
